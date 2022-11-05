@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.arrow-icon {
+  height: 15px;
+}
+.arrow-button {
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+  border-width: 0px;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 10px;
+  list-style-type: none;
+}
+.suggestion {
+  color: #64748b;
+  margin: 0px;
+}
